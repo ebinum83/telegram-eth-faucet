@@ -1,0 +1,8 @@
+UserID: 1234567890
+Requested 0.00624 BNB to: 0x58E4aebed358eA9Db720d41C523997F531Df1083
+Tx Hash: https://testnet.bscscan.com/tx/0xfbfd3cc7bb86e06fd42931659d121bd234850bc5cbee8e3924e788f0214e48f7
+
+UserID: 1234567890
+Requested 0.00286 BNB to: 0x58E4aebed358eA9Db720d41C523997F531Df1083
+Tx Hash: https://testnet.bscscan.com/tx/0x0e80edfcc308046bdd0ce792bc9a922e73ff0ea90fed1d10142afae8d1257a5b
+

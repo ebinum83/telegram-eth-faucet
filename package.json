@@ -1,0 +1,22 @@
+{
+  "name": "telegram-eth-faucet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "dotenv": "^16.4.5",
+    "sharp": "^0.33.3",
+    "svg-captcha": "^1.4.0",
+    "telegraf": "^4.16.3",
+    "web3": "^1.10.4"
+  }
+}
